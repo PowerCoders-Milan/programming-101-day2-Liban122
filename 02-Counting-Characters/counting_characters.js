@@ -13,4 +13,4 @@ var string;
 
 
 string = window.prompt('Enter Your String');
-window.alert([string, string.length, null]);
+window.alert([string, 'have', string.length, 'characters']);
